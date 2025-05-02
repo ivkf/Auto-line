@@ -1,0 +1,15 @@
+{
+  "name": "auto-line",
+  "version": "1.0.0",
+  "description": "Auto Line is a Discord bot designed to automatically send images in specific channels in response to messages. The bot allows you to configure image URLs and channels using simple slash commands.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.19.2"
+  }
+}
